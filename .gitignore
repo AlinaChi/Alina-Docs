@@ -8,3 +8,7 @@
 *.inv
 
 *.js
+
+*.txt
+
+_build
