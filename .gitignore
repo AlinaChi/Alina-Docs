@@ -1,0 +1,10 @@
+
+*.pickle
+
+*.doctree
+
+*.html
+
+*.inv
+
+*.js
