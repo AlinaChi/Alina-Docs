@@ -11,4 +11,4 @@
 
 *.txt
 
-_build
+/build/*
