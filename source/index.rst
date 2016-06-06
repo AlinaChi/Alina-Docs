@@ -6,11 +6,8 @@
 Welcome to use my document center!
 ==================================
 
-
-**Topics:**
-
 Please choose the topic you interested from the following list.
-
+**Topics:**
 .. toctree::
    :maxdepth: 2
 
