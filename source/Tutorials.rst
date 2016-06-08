@@ -25,15 +25,15 @@
 
 创建测试脚本时，需要设置测试脚本名称并进行事务管理。事务管理即为事务添加请求，各请求间可设置请求间隔。添加请求后，为保证测试脚本能在测试时正常执行，在保存测试脚本前还需验证脚本。
 
-* `事务管理 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id7//>`_
+* `事务管理 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id7>`_
 
-* `验证脚本 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id9//>`_
+* `验证脚本 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id9>`_
 
-* `设置初始化变量 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id10//>`_
+* `设置初始化变量 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id10>`_
 
-* `JsonPath说明 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id11//>`_
+* `JsonPath说明 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id11>`_
 
-* `XPath说明 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id12//>`_
+* `XPath说明 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id12>`_
 
 事务管理
 ^^^^^^^
