@@ -64,7 +64,7 @@
 
 **变量**
 
-在“变量”中，可以设置动态提取变量，即动态地提取变量值并赋给初始化变量，有关初始化变量的设置方法请参考“`设置初始化变量 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id10//>`_”中的说明。
+在“变量”中，可以设置动态提取变量，即动态地提取变量值并赋给初始化变量，有关初始化变量的设置方法请参考“`设置初始化变量 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id10>`_”中的说明。
 
 点击<提取变量值>按钮，设置变量获取位置、属性名并选择初始化变量。变量获取位置可以是Json Body、XML Body、Text Body、Response Headers、状态码。
 
