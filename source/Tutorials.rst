@@ -25,15 +25,15 @@
 
 创建测试脚本时，需要设置测试脚本名称并进行事务管理。事务管理即为事务添加请求，各请求间可设置请求间隔。添加请求后，为保证测试脚本能在测试时正常执行，在保存测试脚本前还需验证脚本。
 
-* `事务管理 <http://alina-docs.readthedocs.io/en/latest//>`_
+* `事务管理 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id7//>`_
 
-* `验证脚本 <http://alina-docs.readthedocs.io/en/latest//>`_
+* `验证脚本 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id9//>`_
 
-* `设置初始化变量 <http://alina-docs.readthedocs.io/en/latest//>`_
+* `设置初始化变量 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id10//>`_
 
-* `JsonPath说明 <http://alina-docs.readthedocs.io/en/latest//>`_
+* `JsonPath说明 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id11//>`_
 
-* `XPath说明 <http://alina-docs.readthedocs.io/en/latest//>`_
+* `XPath说明 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id12//>`_
 
 事务管理
 ^^^^^^^
@@ -64,7 +64,7 @@
 
 **变量**
 
-在“变量”中，可以设置动态提取变量，即动态地提取变量值并赋给初始化变量，有关初始化变量的设置方法请参考“`设置初始化变量 <http://alina-docs.readthedocs.io/en/latest//>`_”中的说明。
+在“变量”中，可以设置动态提取变量，即动态地提取变量值并赋给初始化变量，有关初始化变量的设置方法请参考“`设置初始化变量 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id10//>`_”中的说明。
 
 点击<提取变量值>按钮，设置变量获取位置、属性名并选择初始化变量。变量获取位置可以是Json Body、XML Body、Text Body、Response Headers、状态码。
 
@@ -84,7 +84,7 @@
 
 **删除请求或间隔**
 
-将鼠标悬停在已添加的请求或请求间隔上，点击右上方的十字型图标可删除请求或间隔。
+将鼠标悬停在已添加的请求或请求间隔上，点击右上方的删除图标可删除请求或间隔。
 
 
 验证脚本

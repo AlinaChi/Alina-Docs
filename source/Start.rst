@@ -17,7 +17,7 @@
 
 * 邮箱：sales@cloudwise.com
 
-获取账号后，您可以邀请企业的其他人使用压测宝，详细说明请参考“`管理账号 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id6//>`_”。
+获取账号后，您可以邀请企业的其他人使用压测宝，详细说明请参考“`管理账号 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id15//>`_”。
 
 **创建测试数据和测试脚本**
 
@@ -31,8 +31,8 @@
 
 准备好测试数据和测试脚本后，在测试任务各状态任务列表中都可以创建测试任务，测试任务按状态包括待执行任务、执行中任务、已完成任务和已终止任务。
 
-创建测试任务的详细说明请参考“`创建测试任务 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id4//>`_”。
+创建测试任务的详细说明请参考“`创建测试任务 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id13//>`_”。
 
 **分析压测数据**
 
-任务执行中或完成后，您都能随时查看并分析压测数据，从而发现被测系统可能存在的性能问题，详细说明请参考“`分析压测数据 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id5//>`_”。
+任务执行中或完成后，您都能随时查看并分析压测数据，从而发现被测系统可能存在的性能问题，详细说明请参考“`分析压测数据 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id14//>`_”。
