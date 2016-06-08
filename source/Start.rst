@@ -18,13 +18,25 @@
 
 * 邮箱：sales@cloudwise.com
 
-获取账号后，您可以邀请企业的其他人使用压测宝，详细说明请参考“`管理账号 <http://alina-docs.readthedocs.io/en/latest//>`_”。
+获取账号后，您可以邀请企业的其他人使用压测宝，详细说明请参考“`管理账号 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id6//>`_”。
 
 创建测试数据和测试脚本
 ------------------
 
 成为压测宝用户后，您就可以使用压测宝进行压力测试了。在创建测试任务前，需要提前进行以下准备工作：
 
-* 在“测试脚本”页面创建测试脚本，详细说明请参考“`创建测试脚本 <http://alina-docs.readthedocs.io/en/latest//>`_”。
+* 在“测试脚本”页面创建测试脚本，详细说明请参考“`创建测试脚本 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id3//>`_”。
 
-* 需要为测试脚本关联测试数据时，还需在“测试数据”页面创建测试数据，详细说明请参考“创建测试数据”。
+* 需要为测试脚本关联测试数据时，还需在“测试数据”页面创建测试数据，详细说明请参考“`创建测试数据 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id2//>`_”。
+
+创建测试任务
+----------
+
+准备好测试数据和测试脚本后，在测试任务各状态任务列表中都可以创建测试任务，测试任务按状态包括待执行任务、执行中任务、已完成任务和已终止任务。
+
+创建测试任务的详细说明请参考“`创建测试任务 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id4//>`_”。
+
+分析压测数据
+----------
+
+任务执行中或完成后，您都能随时查看并分析压测数据，从而发现被测系统可能存在的性能问题，详细说明请参考“`分析压测数据 <http://alina-docs.readthedocs.io/en/latest/Tutorials.html#id5//>`_”。
